@@ -1,6 +1,6 @@
 # netflix_queries
 
-![netflix_pnf](https://github.com/Firdousrahmani/netflix_queries/blob/main/%7BAD3D3A23-A3E3-485F-8566-638D79BE3D33%7D.png)
+![netflix_pnf](https://github.com/Firdousrahmani/netflix_queries/blob/main/Netflix-Logo.png)
 
 
 ### ** Netflix Content Analysis Using SQL**    
