@@ -2,7 +2,7 @@
 
 ![netflix_pnf](https://github.com/Firdousrahmani/netflix_queries/blob/main/Netflix-Logo.png)
 
-** Netflix Content Analysis Using SQL**    
+Netflix Content Analysis Using SQL    
 
   
 
